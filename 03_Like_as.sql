@@ -221,4 +221,3 @@ select * from personel WHERE isim like '%t';
 
 -- Isminin 2. harfi e olan personeli listeleyiniz
 select * from personel WHERE isim ilike '_e%'
-

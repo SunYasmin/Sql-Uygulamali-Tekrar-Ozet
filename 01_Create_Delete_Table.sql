@@ -18,5 +18,3 @@ SELECT ogr_no, notlar FROM ogrenci;
 
 SELECT * FROM ogrenci;
 SELECT * FROM ogr_notlari;--fdgf
-
-
